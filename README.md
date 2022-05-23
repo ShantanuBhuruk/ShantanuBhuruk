@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShantanuBhuruk
 - 👀 I’m interested in java, Spring Boot, REST, Microservices, Hibernate
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Spring Boot, Python, Falcon
 - 💞️ I’m looking to collaborate on Java
 - 📫 One can reach me on my email shantanubhuruk@gmail.com
 
